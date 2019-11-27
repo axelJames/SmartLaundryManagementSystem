@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Smart LMS</string>
+    <string name="ldap_login">LDAP Login</string>
+
+    <string name="menu">Menu</string>
+
+    <string name="hostel_4">Hostel 4</string>
+
+    <string name="queuing_details">Queuing Details</string>
+
+    <string name="make_request">Make Request</string>
+
+    <string name="shirts">Shirts</string>
+
+    <string name="pants">Pants</string>
+
+    <string name="under_garments">Under Garments</string>
+
+    <string name="bed_sheets">Bed Sheets</string>
+
+    <string name="clicked_images_here">Clicked Images Here</string>
+
+    <string name="submitRequest">Submit</string>
+
+    <string name="todo">TODO</string>
+    <string name="title_activity_approve">ApproveActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

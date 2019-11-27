@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1smartlms_1_1ApproveActivity.html" title="Contains choices to go to PendingRequestActivity or CompletedRequestActivity. " alt="" coords="195,5,406,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1smartlms_1_1CompletedRequestActivity.html" title="Activity to show the accepted but still in service. " alt="" coords="188,71,413,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1smartlms_1_1FetchDetailsActivity.html" title="com.example.smartlms.Fetch\lDetailsActivity" alt="" coords="203,136,398,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1smartlms_1_1HistoryActivity.html" title="Has a list view that is populated from the local database. " alt="" coords="199,201,403,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1smartlms_1_1HomeActivity.html" title="com.example.smartlms.Home\lActivity" alt="" coords="202,267,399,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1smartlms_1_1MainActivity.html" title="com.example.smartlms.Main\lActivity" alt="" coords="205,332,396,373"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1smartlms_1_1MenuActivity.html" title="com.example.smartlms.Menu\lActivity" alt="" coords="203,397,398,439"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1smartlms_1_1NewRequestActivity.html" title="com.example.smartlms.New\lRequestActivity" alt="" coords="206,463,395,504"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1smartlms_1_1PendingRequestActivity.html" title="Activity to show the requests still be accepted. " alt="" coords="196,528,405,569"/>
+<area shape="rect" id="node11" href="$classcom_1_1example_1_1smartlms_1_1RequestSuccessActivity.html" title="com.example.smartlms.Request\lSuccessActivity" alt="" coords="195,593,406,635"/>
+</map>
